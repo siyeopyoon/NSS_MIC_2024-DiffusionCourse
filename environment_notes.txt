@@ -1,0 +1,8 @@
+conda create --name my_diffusion_laboratory
+conda activate my_diffusion_laboratory
+conda install python=3.12 pip ffmpeg
+conda install nvidia/label/cuda-12.4.1::cuda-toolkit
+pip3 install numpy matplotlib
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
+git clone https://github.com/tivnanmatt/diffusion_laboratory.git 
+pip3 install ./diffusion_laboratory
