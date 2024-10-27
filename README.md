@@ -49,7 +49,7 @@ Using pip, install essential Python packages, including numpy, matplotlib, and t
 
 ```bash
 pip install numpy matplotlib
-pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
+pip install torch torchvision
 ```
 
 
