@@ -15,13 +15,14 @@ This guide provides the steps to set up the `my_diffusion_laboratory` Conda envi
 
 Ensure that you have [Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/) installed. An NVIDIA GPU with compatible drivers is recommended for CUDA support.
 
+
 ### 1. Create and Activate the Conda Environment
 
 First, create a new Conda environment named `my_diffusion_laboratory` and activate it:
-
 ```bash
 conda create --name my_diffusion_laboratory
 conda activate my_diffusion_laboratory
+```
 
 ### 2. Install Python and FFmpeg
 
@@ -29,7 +30,7 @@ Within the environment, install Python 3.12 and FFmpeg:
 
 ```bash
 conda install python=3.12 pip ffmpeg
-
+```
 
 ### 3. (optional)Install CUDA Toolkit (CUDA 12.4.1)
 
@@ -37,7 +38,7 @@ Install the CUDA 12.4.1 toolkit from NVIDIA’s Conda channel for GPU accelerati
 
 ```bash
 conda install -c nvidia/label/cuda-12.4.1 cuda-toolkit
-
+```
 
 
 
@@ -49,7 +50,7 @@ Using pip, install essential Python packages, including numpy, matplotlib, and t
 ```bash
 pip install numpy matplotlib
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
-
+```
 
 
 
@@ -59,5 +60,5 @@ Clone the NSS_MIC_2024-DiffusionCourse repository, which contains diffusion mode
 
 ```bash
 git clone https://github.com/siyeopyoon/NSS_MIC_2024-DiffusionCourse
-
+```
 
