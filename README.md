@@ -5,12 +5,16 @@ The codes were originally written by Mattew Tivnan (CAMCA, Massachusetts General
 
 
 Presented by Siyeop Yoon (CAMCA, Instructor at Massachusetts General Hospital and Harvard Medical School)
+
+
+## Forward Diffusion
 <p>
     <br>
      <img src='camca_forward_dynamics.gif' width=840>
     <br>
 </p>
 
+## Reverse Diffusion
 <p>
     <br>
      <img src='camca_reverse_diffusion.gif' width=840>
