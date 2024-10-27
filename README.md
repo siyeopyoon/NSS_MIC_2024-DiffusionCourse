@@ -8,10 +8,14 @@ Presented by Siyeop Yoon (CAMCA, Instructor at Massachusetts General Hospital an
 <p>
     <br>
      <img src='camca_forward_diffusion.gif' width=840>
-     <img src='camca_reverse_diffusion.gif' width=840>
     <br>
 </p>
 
+<p>
+    <br>
+     <img src='camca_reverse_diffusion.gif' width=840>
+    <br>
+</p>
 
  
 
