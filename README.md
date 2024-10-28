@@ -7,6 +7,8 @@ The codes were originally written by Mattew Tivnan (CAMCA,Massachusetts General 
 Presented by Siyeop Yoon (CAMCA, Massachusetts General Hospital and Harvard Medical School, syoon5@mgh.harvard.edu)
 
 
+## We will use Google Colab for this lecture, Please download the Github and upload at your Google Drive
+
 <p>
     <br>
      <img src='camca_forward_dynamics.gif' width=840>
