@@ -14,9 +14,11 @@ Presented by Siyeop Yoon (CAMCA, Instructor at Massachusetts General Hospital an
 </p>
 
 
-# My Diffusion Laboratory Environment Setup
+# Diffusion Laboratory Environment Setup
 
 This guide provides the steps to set up the `my_diffusion_laboratory` Conda environment, install required packages, and clone the `NSS_MIC_2024-DiffusionCourse` repository. This environment will support diffusion model experimentation using PyTorch with CUDA acceleration.
+
+if you are already familiar to deep-learning development using torch, please jump to step 5.
 
 ## Environment Setup Instructions
 
